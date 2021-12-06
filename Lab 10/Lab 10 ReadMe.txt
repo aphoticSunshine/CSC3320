@@ -1,0 +1,2 @@
+findStr.c asks the user to provide a list of words, each entered and followed by pressing enter. The program will continue to prompt the user until a word with four characters
+is entered. Then, it will display the "largest" and "smallest" words, or rather the word that comes first alphabetically and the word that comes last alphabetically.
